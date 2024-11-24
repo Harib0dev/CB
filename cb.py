@@ -14,7 +14,7 @@ from aiogram.types import (
 from cryptopay import CryptoPay
 from cryptopay.exceptions import APIError
 
-bot = Bot(token="TOKEN")
+bot = Bot(token="5869182045:AAErBtQQZ-r2au6czX45iJFJKboBjYlPG9A")
 dp = Dispatcher()
 
 
